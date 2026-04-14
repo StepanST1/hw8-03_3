@@ -19,13 +19,13 @@ root@zabbixserverprod:~# rsync -avzh --delete --exclude='.*/' --checksum ~/ /tmp
 
 `
 Результат работы команды
-![TASK_1](img\Screenshot_4.png)
+![TASK_1](img/Screenshot_4.png)
 Сравнение файлов
-![TASK_1](img\Screenshot_5.png)
+![TASK_1](img/Screenshot_5.png)
 
 
 ---
-![Uploading image.png…]()
+
 
 ### Задание 2
 
