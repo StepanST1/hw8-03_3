@@ -18,10 +18,10 @@ root@zabbixserverprod:~# rsync -avzh --delete --exclude='.*/' --checksum ~/ /tmp
 ```
 
 `
-Результат работы команды
-![TASK_1](img/Screenshot_4.png)
-Сравнение файлов
-![TASK_1](img/Screenshot_5.png)
+`Результат работы команды`
+`![TASK_1](img/Screenshot_4.png)`
+`Сравнение файлов`
+`![TASK_1](img/Screenshot_5.png)`
 
 
 ---
